@@ -1,0 +1,22 @@
+Dashboard
+
+Date: Mon Dec 18 17:21:56 2017
+
+User: engr850-14
+
+Version: L-2016.06-SP2-9
+Command line: urg -lca -dir simv.vdb -show text 
+
+Number of tests: 1
+
+-------------------------------------------------------------------------------
+Total Coverage Summary 
+SCORE  GROUP  
+ 25.00  25.00 
+
+
+-------------------------------------------------------------------------------
+Total Groups Coverage Summary 
+SCORE  WEIGHT 
+ 25.00 1      
+
